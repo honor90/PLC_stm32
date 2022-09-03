@@ -1,0 +1,9 @@
+.\modbusrtu.o: source\c\ModbusRTU.c
+.\modbusrtu.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h
+.\modbusrtu.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\modbusrtu.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\modbusrtu.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\modbusrtu.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\modbusrtu.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+.\modbusrtu.o: .\source\h\ModbusRTU.h
+.\modbusrtu.o: .\source\h\CRC16.h

@@ -1,0 +1,23 @@
+--cpu Cortex-M3
+".\adc.o"
+".\afio.o"
+".\crc16.o"
+".\dma.o"
+".\etr.o"
+".\exti.o"
+".\flash.o"
+".\gpio.o"
+".\iwdg.o"
+".\main.o"
+".\modbusrtu.o"
+".\rcc.o"
+".\tim.o"
+".\usart.o"
+".\pt100.o"
+".\oven.o"
+".\startup_stm32f100xe.o"
+".\system_stm32f1xx.o"
+--strict --scatter ".\stm32Mechanics.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\stm32Mechanics.map" -o .\stm32Mechanics.axf

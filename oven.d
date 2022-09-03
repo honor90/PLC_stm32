@@ -1,0 +1,9 @@
+.\oven.o: source\c\oven.c
+.\oven.o: .\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h
+.\oven.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\oven.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\oven.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\oven.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\oven.o: .\CMSIS\Device\ST\STM32F1xx\Include\system_stm32f1xx.h
+.\oven.o: .\source\h\oven.h
+.\oven.o: C:\Keil\ARM\ARMCC\bin\..\include\math.h

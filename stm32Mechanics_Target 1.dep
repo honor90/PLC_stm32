@@ -1,0 +1,21 @@
+Dependencies for Project 'stm32Mechanics', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: <unknown>
+F (.\source\c\adc.c)(0x61089F99)(-c --cpu Cortex-M3 -D__EVAL -g -O0 --apcs=interwork -I.\source\c -I.\source\h -I.\CMSIS\Device\ST\STM32F1xx\Include -I.\CMSIS\Device\ST\STM32F1xx\Source\Templates-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\ST\STM32F10x-o .\adc.o --omf_browse .\adc.crf --depend .\adc.d)
+I (.\CMSIS\Device\ST\STM32F1xx\Include\stm32f103xe.h)(0x5D1623CA)
+F (.\source\c\afio.c)(0x61B73F84)()
+F (.\source\c\CRC16.c)(0x5F2A9578)()
+F (.\source\c\dma.c)(0x5F55DFBA)()
+F (.\source\c\etr.c)(0x60CA7AAC)()
+F (.\source\c\exti.c)(0x60C51F24)()
+F (.\source\c\flash.c)(0x602AE802)()
+F (.\source\c\gpio.c)(0x6130BB0F)()
+F (.\source\c\iwdg.c)(0x5F4F9D4E)()
+F (.\source\c\main.c)(0x62FCC1F5)()
+F (.\source\c\ModbusRTU.c)(0x612F1BAE)()
+F (.\source\c\rcc.c)(0x6140055F)()
+F (.\source\c\tim.c)(0x603A29C0)()
+F (.\source\c\usart.c)(0x613B47A9)()
+F (.\source\c\pt100.c)(0x60AEA8E6)()
+F (.\source\c\oven.c)(0x613073B6)()
+F (.\CMSIS\Device\ST\STM32F1xx\Source\Templates\arm\startup_stm32f100xe.s)(0x5D1623CA)()
+F (.\CMSIS\Device\ST\STM32F1xx\Source\Templates\system_stm32f1xx.c)(0x5F57F4C8)()
